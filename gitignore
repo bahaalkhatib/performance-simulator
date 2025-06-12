@@ -1,0 +1,13 @@
+# Ignore compiled output
+*.o
+*.exe
+sim
+
+# Ignore build folder
+build/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore macOS hidden files
+.DS_Store
